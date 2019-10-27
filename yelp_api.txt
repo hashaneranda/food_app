@@ -1,0 +1,8 @@
+Client ID
+FIF0zJmflaj2xkdvz-Bt3A
+
+API Key
+rZa7EZlQzG7FCdFlM4Q7iqoL8TbpXrjpxcDjwnALAUqFiD7HS6MWJAN-IuHdE_92RWXxdalJYBCJqaZKEp848SNO3Xx7s0vOV1s6ZXrdC9Ls1nVcprlsdMqlofGiXXYx
+
+app name 
+food test app
